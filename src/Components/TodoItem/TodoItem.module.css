@@ -1,0 +1,21 @@
+.todoItem {
+  margin: 20px auto;
+  border: 2px solid #fff;
+  color: #fff;
+  display: flex;
+  width: 200px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.todoItem > button {
+  border: 0;
+  padding: 4px 8px;
+  background: red;
+  border-radius: 50%;
+  color: aliceblue;
+  font-weight: 600;
+  cursor: pointer;
+}
