@@ -1,0 +1,19 @@
+input[type="text"] {
+  margin-top: 20px;
+  border: 0;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  font-size: 18px;
+  background: transparent;
+  color: #fff;
+}
+input[type="submit"] {
+  border: 0;
+  padding: 5px 10px;
+  background: rgb(122, 236, 14);
+  border-radius: 50%;
+  color: aliceblue;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 20px;
+}
