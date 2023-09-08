@@ -45,5 +45,5 @@ Virsoftech-Todo-App/
 + Delete a task
 ### 8. Deployment
 #### The app is deployed over Netlify.
-[App Link]()
+[App Link](https://vishal-todo-app.netlify.app/)
 
